@@ -1,0 +1,7 @@
+
+
+		Web Browser -----> Customer Controller <----> Customer Service <----> Customer DAO <----> DB
+									|
+									|
+									|
+			Web Browser	<------	JSP Page
